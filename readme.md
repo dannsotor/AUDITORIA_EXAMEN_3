@@ -12,7 +12,7 @@
 | **Nombre del Sistema** | Corporate EPIS Pilot – Asistente de Soporte con IA |
 | **Tipo de Auditoría** | Auditoría Rápida Técnico-Funcional |
 | **Objetivo Principal** | Evaluar operatividad, riesgos, arquitectura y cumplimiento del sistema de Mesa de Ayuda con IA |
-| **Entidad** | Empresa propietaria del sistema (información provista en documentación) |
+| **Entidad** | EPIS |
 | **Componentes Auditados** | Backend, Frontend, IA (Ollama), RAG, Base de datos, Docker, Kubernetes |
 
 ---
